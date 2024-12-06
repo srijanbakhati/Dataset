@@ -1,0 +1,44 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: aayush
+  1: avijit
+  2: avishek_d
+  3: avishek_t
+  4: bijay
+  5: binayak
+  6: hardik
+  7: jashmina
+  8: kalpit
+  9: kul
+  10: nija
+  11: nikhil
+  12: niraj
+  13: nitoya
+  14: prabesh
+  15: prajwol
+  16: prakash
+  17: prashant
+  18: pratham
+  19: pratik
+  20: pratyush
+  21: rajan
+  22: rajun
+  23: ranish
+  24: regish
+  25: safal
+  26: saksham
+  27: samip
+  28: sandip
+  29: saurav_l
+  30: saurav_p
+  31: saurav_r
+  32: sirjan
+  33: srijan
+  34: sukriti
+  35: swosthika
+  36: ved
+  37: yakina
+  38: yogyata
